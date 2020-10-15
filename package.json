@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/ShipraD25/zookeeper/issues"
   },
-  "homepage": "https://github.com/ShipraD25/zookeeper#readme"
+  "homepage": "https://github.com/ShipraD25/zookeeper#readme",
+  "dependencies": {
+    "path": "^0.12.7"
+  }
 }
